@@ -21,6 +21,6 @@
 
 | Render 3 | Render 4 |
 |----------|----------|
-| ![Render Image 3](/Portable_Dental_kit/images/dent2.jpg) | ![Render Image 4](//Portable_Dental_kit/images/dent3.jpg) |
+| ![Render Image 3](/Portable_Dental_kit/images/dent2.jpg) | ![Render Image 4](/Portable_Dental_kit/images/dent3.jpg) |
 
 <sub>📸 CAD renderings showing various views of the portable dental service kit mounted on a bicycle</sub>
