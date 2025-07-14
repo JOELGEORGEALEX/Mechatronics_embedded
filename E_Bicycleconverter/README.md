@@ -18,6 +18,6 @@
 
 | Image 3 | Image 4 |
 |---------|---------|
-| ![Render Image 3](/E_Bicycleconverter/images/bik3.jpg) | *(Add another image or remove this cell if not needed)* |
+| ![Render Image 3](/E_Bicycleconverter/images/bik3.jpg) | ![Render Image 4](/E_Bicycleconverter/images/bik4.jpg) |
 
 <sub>📸 Rendered views of the converter kit and mounting system</sub>
