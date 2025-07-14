@@ -14,10 +14,10 @@
 
 | Image 1 | Image 2 |
 |---------|---------|
-| ![Render Image 1](/images/bik1.jpg) | ![Render Image 2](bik2.jpg) |
+| ![Render Image 1](/Mechatronics_embedded/images/bik1.jpg) | ![Render Image 2](/Mechatronics_embedded/images/bik2.jpg) |
 
 | Image 3 | Image 4 |
 |---------|---------|
-| ![Render Image 3](bik3.jpg) | *(Add another image or remove this cell if not needed)* |
+| ![Render Image 3](/Mechatronics_embedded/images/bik3.jpg) | *(Add another image or remove this cell if not needed)* |
 
 <sub>📸 Rendered views of the converter kit and mounting system</sub>
